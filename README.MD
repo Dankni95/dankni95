@@ -11,7 +11,7 @@
 
 <p align="center"><img
         src="https://github-readme-stats.vercel.app/api/top-langs?username=dankni95&show_icons=true&locale=en&langs_count=8&theme=blue-green"
-        alt="omamoh18" /> </p>
+        alt="dankni95" /> </p>
         
         
 <h3 align="center">Where to reach me:</h3>
