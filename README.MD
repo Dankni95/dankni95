@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, i'm Daniel Lysak</h1>
-<h3 align="center">I am currently completing my bachelor's degree at Kristiania University in Oslo, studying Frontend and mobile app development.</h3>
 
 
 <br>
